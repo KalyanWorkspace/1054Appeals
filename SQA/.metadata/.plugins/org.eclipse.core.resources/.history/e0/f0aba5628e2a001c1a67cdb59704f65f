@@ -1,0 +1,25 @@
+package stepDefinitions;
+
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+
+public class stepDefinition {
+	
+	@Given("^the user have navigated to the estimates site$")
+    public void the_user_have_navigated_to_the_estimates_site() throws Throwable {
+        
+    }
+
+    @When("^the user enters his credentials$")
+    public void the_user_enters_his_credentials() throws Throwable {
+        
+    }
+
+    @Then("^the user is navigated to the HomePage $")
+    public void the_user_is_navigated_to_the_homepage() throws Throwable {
+        
+    }
+
+
+}

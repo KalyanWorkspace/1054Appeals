@@ -1,0 +1,7 @@
+14:41:42.969 [main] INFO  estimates.TestBase - Wlecome SQA
+14:41:43.119 [main] INFO  estimates.TestBase - Wlecome SQA
+14:41:47.081 [main] INFO  estimates.TestBase - Navigated to the URL
+14:41:47.162 [main] INFO  estimates.TestBase - Entered Email
+14:41:47.253 [main] INFO  estimates.TestBase - Entered Password
+14:41:51.074 [main] INFO  estimates.TestBase - Successful
+14:41:51.230 [main] INFO  estimates.TestBase - Successful

@@ -1,0 +1,7 @@
+11:18:16.391 [TestNG-tests-2] DEBUG freemarker.cache - "spark/partials/standard-content.ftl"("en_GB", UTF-8, parsed) cached copy not yet stale; using cached.
+11:18:16.398 [TestNG-tests-2] DEBUG freemarker.cache - "spark/partials/exception.ftl"("en_GB", UTF-8, parsed) cached copy not yet stale; using cached.
+11:18:16.402 [TestNG-tests-2] DEBUG freemarker.cache - "spark/partials/category.ftl"("en_GB", UTF-8, parsed) cached copy not yet stale; using cached.
+11:18:16.402 [TestNG-tests-2] DEBUG freemarker.cache - "spark/partials/device.ftl"("en_GB", UTF-8, parsed) cached copy not yet stale; using cached.
+11:18:16.403 [TestNG-tests-2] DEBUG freemarker.cache - "spark/partials/author.ftl"("en_GB", UTF-8, parsed) cached copy not yet stale; using cached.
+11:18:16.404 [TestNG-tests-2] DEBUG freemarker.cache - "spark/partials/log.ftl"("en_GB", UTF-8, parsed) cached copy not yet stale; using cached.
+11:18:16.404 [TestNG-tests-2] DEBUG freemarker.cache - "spark/partials/dashboard.ftl"("en_GB", UTF-8, parsed) cached copy not yet stale; using cached.

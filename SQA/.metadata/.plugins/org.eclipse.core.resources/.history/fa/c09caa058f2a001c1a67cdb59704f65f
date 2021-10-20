@@ -1,0 +1,4 @@
+browser=chrome
+email=5010130@sqa.org.uk
+password=Password@123
+URL=https://dev.auth.sqa.org.uk/Account/Account/login?returnUrl=https://dev.estimates.sqa.org.uk

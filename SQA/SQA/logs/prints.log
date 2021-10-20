@@ -1,0 +1,16 @@
+14:55:57.270 [main] INFO  estimates.TestBase - Entered Email
+14:55:57.330 [main] INFO  estimates.TestBase - Entered Password
+14:56:03.873 [main] INFO  estimates.TestBase - Successful
+16:58:52.950 [main] INFO  estimates.TestBase - Navigated to the URL
+17:00:15.761 [main] INFO  estimates.TestBase - Navigated to the URL
+14:23:07.913 [main] INFO  estimates.TestBase - Navigated to the URL
+14:23:50.681 [main] INFO  estimates.TestBase - Wlecome SQA
+14:23:54.595 [main] INFO  estimates.TestBase - Navigated to the URL
+14:23:54.667 [main] INFO  estimates.TestBase - Entered Email
+14:23:54.731 [main] INFO  estimates.TestBase - Entered Password
+14:23:58.925 [main] INFO  estimates.TestBase - Successful
+16:34:47.481 [main] INFO  estimates.TestBase - Wlecome SQA
+16:34:51.610 [main] INFO  estimates.TestBase - Navigated to the URL
+16:34:51.706 [main] INFO  estimates.TestBase - Entered Email
+16:34:51.781 [main] INFO  estimates.TestBase - Entered Password
+16:34:56.549 [main] INFO  estimates.TestBase - Successful

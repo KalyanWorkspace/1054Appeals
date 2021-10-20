@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite verbose="0" name="Failed suite [Suite]" parallel="none">
+  <listeners>
+    <listener class-name="estimates.Listeners"/>
+  </listeners>
+  <test name="Regression1(failed)" parallel="none">
+    <classes>
+      <class name="estimates.LoginPageTest">
+        <methods>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- estimates.LoginPageTest -->
+      <class name="estimates.CandidateListPageTest">
+        <methods>
+          <include name="LoginTest"/>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- estimates.CandidateListPageTest -->
+      <class name="estimates.DashBoardTest">
+        <methods>
+          <include name="teardown"/>
+        </methods>
+      </class> <!-- estimates.DashBoardTest -->
+    </classes>
+  </test> <!-- Regression1(failed) -->
+</suite> <!-- Failed suite [Suite] -->

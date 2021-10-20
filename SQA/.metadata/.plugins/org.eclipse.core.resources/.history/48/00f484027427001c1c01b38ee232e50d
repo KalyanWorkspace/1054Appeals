@@ -1,0 +1,9 @@
+14:34:01.532 [main] INFO  java.util.Base64 - Wlecome SQA
+14:34:01.686 [main] INFO  java.util.Base64 - Wlecome SQA
+14:34:06.966 [main] INFO  java.util.Base64 - Navigated to the URL
+14:34:07.041 [main] INFO  java.util.Base64 - Entered Email
+14:34:07.131 [main] INFO  java.util.Base64 - Entered Password
+14:34:11.098 [main] INFO  java.util.Base64 - Successful
+14:34:11.257 [main] INFO  java.util.Base64 - Successful
+14:39:13.607 [main] INFO  estimates.TestBase - Wlecome SQA
+14:39:13.747 [main] INFO  estimates.TestBase - Wlecome SQA

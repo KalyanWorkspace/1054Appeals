@@ -1,0 +1,8 @@
+10:23:13.488 [main] INFO  java.util.Base64 - Navigated to the URL
+10:23:13.642 [main] INFO  java.util.Base64 - Entered Email
+10:23:13.738 [main] INFO  java.util.Base64 - Entered Password
+10:35:04.576 [main] INFO  java.util.Base64 - Wlecome SQA
+10:35:10.661 [main] INFO  java.util.Base64 - Navigated to the URL
+10:35:10.764 [main] INFO  java.util.Base64 - Entered Email
+10:35:10.870 [main] INFO  java.util.Base64 - Entered Password
+10:35:17.409 [main] INFO  java.util.Base64 - Successful

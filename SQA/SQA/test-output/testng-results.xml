@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="2" failed="1" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-10-20T16:34:36 BST" name="Suite" finished-at="2021-10-20T16:34:56 BST" duration-ms="20523">
+    <groups>
+    </groups>
+    <test started-at="2021-10-20T16:34:36 BST" name="Regression" finished-at="2021-10-20T16:34:48 BST" duration-ms="11848">
+      <class name="estimates.LoginPageTest">
+        <test-method signature="LoginTest()[pri:0, instance:estimates.LoginPageTest@669253b7]" started-at="2021-10-20T16:34:36 BST" name="LoginTest" finished-at="2021-10-20T16:34:47 BST" duration-ms="11576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:estimates.LoginPageTest@669253b7]" started-at="2021-10-20T16:34:47 BST" name="teardown" finished-at="2021-10-20T16:34:48 BST" duration-ms="228" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- estimates.LoginPageTest -->
+    </test> <!-- Regression -->
+    <test started-at="2021-10-20T16:34:48 BST" name="Regression1" finished-at="2021-10-20T16:34:52 BST" duration-ms="3737">
+      <class name="estimates.CandidateListPageTest">
+        <test-method signature="LoginTest()[pri:0, instance:estimates.CandidateListPageTest@1cfd1875]" started-at="2021-10-20T16:34:48 BST" name="LoginTest" finished-at="2021-10-20T16:34:51 BST" duration-ms="3267" status="FAIL">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[expected [Password] but found []]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: expected [Password] but found []
+at org.testng.Assert.fail(Assert.java:99)
+at org.testng.Assert.failNotEquals(Assert.java:1037)
+at org.testng.Assert.assertEqualsImpl(Assert.java:140)
+at org.testng.Assert.assertEquals(Assert.java:122)
+at org.testng.Assert.assertEquals(Assert.java:629)
+at org.testng.Assert.assertEquals(Assert.java:639)
+at estimates.CandidateListPageTest.LoginTest(CandidateListPageTest.java:30)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:78)
+at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.base/java.lang.reflect.Method.invoke(Method.java:567)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:133)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:598)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:824)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+at org.testng.TestRunner.privateRun(TestRunner.java:794)
+at org.testng.TestRunner.run(TestRunner.java:596)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:377)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:371)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:332)
+at org.testng.SuiteRunner.run(SuiteRunner.java:276)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1212)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1134)
+at org.testng.TestNG.runSuites(TestNG.java:1063)
+at org.testng.TestNG.run(TestNG.java:1031)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:estimates.CandidateListPageTest@1cfd1875]" started-at="2021-10-20T16:34:52 BST" name="teardown" finished-at="2021-10-20T16:34:52 BST" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- estimates.CandidateListPageTest -->
+    </test> <!-- Regression1 -->
+    <test started-at="2021-10-20T16:34:52 BST" name="Regression2" finished-at="2021-10-20T16:34:56 BST" duration-ms="4422">
+      <class name="estimates.DashBoardTest">
+        <test-method signature="LoginTest()[pri:0, instance:estimates.DashBoardTest@4d157787]" started-at="2021-10-20T16:34:52 BST" name="LoginTest" finished-at="2021-10-20T16:34:56 BST" duration-ms="4203" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:estimates.DashBoardTest@4d157787]" started-at="2021-10-20T16:34:56 BST" name="teardown" finished-at="2021-10-20T16:34:56 BST" duration-ms="214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- estimates.DashBoardTest -->
+    </test> <!-- Regression2 -->
+  </suite> <!-- Suite -->
+</testng-results>

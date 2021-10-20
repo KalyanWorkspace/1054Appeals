@@ -1,0 +1,6 @@
+11:21:55.912 [main] DEBUG freemarker.cache - "spark/partials/log.ftl"("en_GB", UTF-8, parsed): using cached since jar:file:/C:/Users/pula0989/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/log.ftl hasn't changed.
+11:21:55.918 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("spark/partials/dashboard_en_GB.ftl"): Not found
+11:21:55.918 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("spark/partials/dashboard_en.ftl"): Not found
+11:21:55.919 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("spark/partials/dashboard.ftl"): Found
+11:21:55.919 [main] DEBUG freemarker.cache - "spark/partials/dashboard.ftl"("en_GB", UTF-8, parsed): using cached since jar:file:/C:/Users/pula0989/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar!/com/aventstack/extentreports/templates/spark/partials/dashboard.ftl hasn't changed.
+11:21:55.924 [main] DEBUG freemarker.cache - TemplateLoader.findTemplateSource("spark/partials/scripts_en_GB.ftl"): Not found
